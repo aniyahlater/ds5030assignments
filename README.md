@@ -1,2 +1,3 @@
 # ds5030assignments
-Repository for all the assignments I am going to submit for ds5030
+This repository will be used to store all the assignments I am going to submit for DS5030: Understanding Uncertainty
+
